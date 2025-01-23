@@ -30,7 +30,7 @@ To analyze Vrinda Store's 2022 sales data, uncover trends, and provide actionabl
 * Adult within the age group (30-49 yrs) are the main customers.
 * Amazon, Flipkart and Myntra channels generate the most revenue.
 
-### Recommendations
+### Recommendation
 * Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
   
 
