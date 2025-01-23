@@ -22,6 +22,15 @@ To analyze Vrinda Store's 2022 sales data, uncover trends, and provide actionabl
   - Which channel is contributing the most in terms of sales?
   - Highest selling category?
 * Dashboard
-   ![Dashboard]()
+   ![Dashboard](Dashboard.png)
+
+### Results/Findings
+* Women are more likely to buy compared to men (~65%)
+* Maharashtra, Karnataka and Uttar Pradesh are the top 3 states contributing to sales.
+* Adult within the age group (30-49 yrs) are the main customers.
+* Amazon, Flipkart and Myntra channels generate the most revenue.
+
+### Recommendations
+* Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
   
 
